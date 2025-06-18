@@ -89,3 +89,6 @@ deltatraveller:
 
 hand_talk:
   - br.com.handtalk/br.com.handtalk.MainActivity
+
+code_word:
+  - com.peaceray.codeword/com.peaceray.codeword.presentation.view.activities.MainActivity
