@@ -33,3 +33,5 @@ touch_hle:
 
 ikea:
   - com.ikea.ksa.kompis/com.ikea.kompis.StartupActivity
+
+delta_alt_4: {}
