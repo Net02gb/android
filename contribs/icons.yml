@@ -6,35 +6,47 @@
 # https://github.com/Delta-Icons/android/blob/master/CONTRIBUTING.md#examples
 #
 
-fresh_thyme_market: com.freshthyme.app.android/com.thryveai.grocery.LaunchActivity
+apollo24_7: com.apollo.patientapp/com.apollopatient.MainActivity
 
-health_data_export: com.teqxnology.healthdataexport/com.teqxnology.healthdataexport.MainActivity
+titanium_browser: io.github.jqssun.helium/com.google.android.apps.chrome.Main
 
-kashcal:
-  action: rebrand
+umihi: ca.ilianokokoro.umihi.music/ca.ilianokokoro.umihi.music.MainActivity
 
-nothing_glyphify: com.frank.glyphify/com.frank.glyphify.ui.MainActivity
+syncthing: com.github.catfriend1.syncthingfork/com.nutomic.syncthingandroid.onboarding.OnboardingActivity
 
-gallery_assistant: com.samsung.android.gallery.assistant.app/com.samsung.android.gallery.assistant.app.activity.launcher.LauncherActivity
+panahon: com.dostpagasa.panahon/com.dostpagasa.panahon.MainActivity
 
-nte: com.hottagames.nte/com.epicgames.unreal.SplashActivity
+skinstation: com.reis.skinstation2/com.reis.skinstation2.MainActivity
 
-noble_fokus: com.cca.app_noble/com.cca.app_noble.page.activity.FirstActivity
+disco_zoo: com.nimblebit.discozoo/com.unity3d.player.UnityPlayerActivity
 
-iitc_mobile: org.exarhteam.iitc_mobile/org.exarhteam.iitc_mobile.IITC_Mobile
+kaiju_no_8: jp.aktsk.games.kaiju_no8_the_game/com.unity3d.player.UnityPlayerActivity
 
-aliucord: com.aliucord.discord/com.discord.app.AppActivity$Main
+lyft_alt_1: me.lyft.android/me.lyft.android.ui.MainActivity
 
-cookie_clickers: org.dashnet.cookieclickeradless/org.dashnet.cookieclickeradless.MainActivity
+discord_rain: dev.raincord.app/com.discord.main.MainDefault
 
-ente_locker: io.ente.locker.fdroid/io.ente.locker.MainActivity
+eclipse_music: com.eclipse.android/com.eclipse.android.MainActivity
 
-moonlight: com.limelight.noir/com.limelight.PcView
+forkgram_classic: org.forkgram.classic/org.telegram.messenger.DefaultIcon
 
-authpass: design.codeux.authpass.sideload/design.codeux.authpass.MainActivity
+google_finance: 
+  category: google
+  compinfo:
+    - com.google.android.apps.finance/com.google.android.apps.finance.home.HomeActivity
 
-blued: com.blued.international.qy/com.blued.international.icon0
+la_piadineria: com.foodrunner.piadineria/com.foodrunner.piadineria.MainActivity
 
-arknights_endfield: com.gryphline.endfield.gp.vn/com.u8.sdk.U8UnityContext
+minimax: 
+  - com.minimax.ai/com.xproducer.yingshi.app.MainSplashActivity
+  - com.minimax.ai/com.xproducer.yingshi.MainActivity
 
-efootball: jp.konami.pesamucl/com.epicgames.ue4.SplashActivity
+obtainx: dev.bikram.obtainx/dev.imranr.obtainium.MainActivity
+
+openkuma: app.openkuma/app.openkuma.MainActivity
+
+rain_manager: dev.raincord.manager/com.aliucord.manager.MainActivity
+
+universal_installer: app.pwhs.universalinstaller/app.pwhs.universalinstaller.MainActivity
+
+vitesy_hub: it.labfabrici.hub/it.labfabrici.hub.MainActivity
